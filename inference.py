@@ -270,3 +270,4 @@ if __name__ == "__main__":
         ckpt_path   = args.ckpt,
         output_dir  = args.output,
     )
+  
